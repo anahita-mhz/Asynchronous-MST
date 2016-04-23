@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------------------------
  AUTHORS: 
   
-  		  **** FULL NAME ****   		**** NETID ****
-  		    ANAHITA MAHZARI		 	   axm155131
-  		   ASHKAN YOUSEFPOUR		 	   axy130830
+  	  	                       **** FULL NAME ****   	
+  		                         ANAHITA MAHZARI		 	   
 --------------------------------------------------------------------------------------------------
 
 The project is written in Java and can be compile easily via the following command:
